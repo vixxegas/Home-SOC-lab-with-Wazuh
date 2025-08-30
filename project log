@@ -7,3 +7,8 @@
 - downlaoding ubuntu server iso image (wazuh server)
 - download windows iso image (vulnerable machine)
 - download kali linux pre-built VM (attack machine)
+- creating all three VMs and cofnigured correctly
+**errors**
+1. some probelms with the instalation on vbox, had to disable secure box
+2. ran into some problems when trying to run the wazuhserver but no major issue, i just had to disable KVM kernel extension - sudo rmmod kvm_intel
+

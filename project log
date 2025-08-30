@@ -4,6 +4,7 @@
 **goals: installing the softwares and creating the virtual machines needed for this project**
 - downlaod and install virtualbox (virtualisation)
 - creating a host only network, so my VMs can talk to one another
+    -configuring static IPs on the VMs for internal lab communication
 - downlaoding ubuntu server iso image (wazuh server)
 - download windows iso image (vulnerable machine)
-- download kali linux iso (attack machine)
+- download kali linux pre-built VM (attack machine)

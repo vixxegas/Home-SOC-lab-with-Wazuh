@@ -3,6 +3,7 @@
 ##Day 1 - 30/08/25##
 **goals: installing the softwares and creating the virtual machines needed for this project**
 - downlaod and install virtualbox (virtualisation)
+- creating a host only network, so my VMs can talk to one another
 - downlaoding ubuntu server iso image (wazuh server)
 - download windows iso image (vulnerable machine)
 - download kali linux iso (attack machine)
